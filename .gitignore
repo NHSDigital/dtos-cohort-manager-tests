@@ -373,6 +373,3 @@ FodyWeavers.xsd
 # Ignore generated feature bindings
 *.feature.cs
 
-
-# Please, add your custom content below!
-/application/dtos-cohort-manager-smoke-tests/Config/appsettings.json
