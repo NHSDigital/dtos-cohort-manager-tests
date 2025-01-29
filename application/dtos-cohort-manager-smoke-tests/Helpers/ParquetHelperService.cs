@@ -1,6 +1,4 @@
-using System.Collections.Generic;
 using ChoETL;
-using ParquetSharp;
 
 namespace dtos_cohort_manager_specflow.Helpers
 {

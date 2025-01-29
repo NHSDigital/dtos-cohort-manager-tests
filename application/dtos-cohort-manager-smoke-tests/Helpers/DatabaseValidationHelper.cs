@@ -1,8 +1,6 @@
 using ChoETL;
-using dtos_cohort_manager_specflow.Config;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Logging;
-using NUnit.Framework.Internal;
 using ILogger = Microsoft.Extensions.Logging.ILogger;
 
 namespace dtos_cohort_manager_specflow.Helpers;

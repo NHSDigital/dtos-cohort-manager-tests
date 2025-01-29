@@ -4,10 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using FluentAssertions;
 using dtos_cohort_manager_specflow.Config;
 using dtos_cohort_manager_specflow.Contexts;
-using Microsoft.Extensions.Primitives;
-using System;
 using dtos_cohort_manager_specflow.Models;
-using TechTalk.SpecFlow.Assist;
 
 namespace dtos_cohort_manager_specflow.Steps;
 
