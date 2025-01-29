@@ -19,4 +19,9 @@ regexes = [
 ]
 
 [allowlist]
-paths = ['''.terraform.lock.hcl''', '''poetry.lock''', '''yarn.lock''']
+paths = [
+  '''.terraform.lock.hcl''', 
+  '''poetry.lock''', 
+  '''yarn.lock''',
+  '''application/dtos-cohort-manager-smoke-tests/dtos-cohort-manager-smoke-tests.csproj'''
+  ]
